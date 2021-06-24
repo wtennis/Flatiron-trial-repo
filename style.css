@@ -9,5 +9,6 @@ background: url(https://odis.homeaway.com/odis/destination/dab7d958-0a41-4dab-b1
 height: 450px;
 }
 
-
-  
+#pokeChoice {
+    text-align: center;
+}
