@@ -4,6 +4,7 @@ body {
 #header {
 font-family: Georgia, 'Times New Roman', Times, serif;
 text-align: center;
+text-shadow: black, 1ch;
 color: white;
 background: url(https://odis.homeaway.com/odis/destination/dab7d958-0a41-4dab-b1ab-ebbcd52e6450.hw5.jpg);
 height: 450px;
