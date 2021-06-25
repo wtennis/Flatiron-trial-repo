@@ -12,3 +12,8 @@ height: 450px;
 #pokeChoice {
     text-align: center;
 }
+
+h1 {
+  font-size: 62px;
+  text-shadow: 4px 4px #000000;
+}
